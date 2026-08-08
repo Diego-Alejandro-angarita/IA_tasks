@@ -169,12 +169,6 @@ El segundo bloque del curso cambia de familia de algoritmos: en vez de *búsqued
 | Espacio de búsqueda | Se construye explícitamente el árbol/grafo de búsqueda | Nunca se construye todo el espacio; solo se evalúan vecinos inmediatos |
 | Costo computacional | Depende de $b$, $d$ o $m$ (ver tabla de complejidad) | Depende del tamaño del vecindario y del número de iteraciones/reinicios, mucho más barato por corrida |
 
-## Cómo ejecutar los notebooks
-
-1. Clonar o descargar este repositorio.
-2. Instalar las dependencias: `numpy`, `matplotlib` (y `google.colab` solo si se ejecuta en Google Colab; los notebooks detectan automáticamente si están fuera de Colab).
-3. Para el notebook de laberintos, asegurarse de tener los archivos `maze1.txt`, `maze2.txt` y `maze3.txt` en el mismo directorio que el notebook.
-4. Ejecutar las celdas en orden: cada sección depende de las clases y funciones definidas en las secciones anteriores (`Node`, `StackFrontier`, `QueueFrontier`, `PriorityFrontier`).
 
 ## Conclusiones
 
