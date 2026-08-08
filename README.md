@@ -4,10 +4,10 @@
 **Curso:** Inteligencia Artificial S2666-0343
 
 **Integrantes:**
-1. _________________________
-2. _________________________
-3. _________________________
-4. _________________________
+1. Daniel Mauricio Giraldo Moreno
+2. Esteban Alvarez
+3. Diego Angarita
+4. Ismael Ruiz
 
 ---
 
